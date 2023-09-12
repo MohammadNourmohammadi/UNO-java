@@ -2,7 +2,8 @@
 
 ## Description
 
-This a UNO game code with java.
+* This a UNO game code with java.
+* Foe more detail please see html documents in docs file.
 
 
 ### Dependencies
